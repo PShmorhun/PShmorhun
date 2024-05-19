@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-test test test
+My repository of professional/personal python programs & practice.  
 <!--
 **PShmorhun/PShmorhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
